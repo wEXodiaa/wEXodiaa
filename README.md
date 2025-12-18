@@ -1,6 +1,7 @@
 # Auto-formation – BTS CIEL
+*Légende : ⏳= module en cours | ✅ = module terminé*
   ## 🧑‍💻 Programmation :
-  - [**Mettez en place votre environnement Python**](https://openclassrooms.com/fr/courses/6951236-mettez-en-place-votre-environnement-python)
+  - [**Mettez en place votre environnement Python**](https://openclassrooms.com/fr/courses/6951236-mettez-en-place-votre-environnement-python) 
   - [**Apprenez les bases du langage Python**](https://openclassrooms.com/fr/courses/7168871-apprenez-les-bases-du-langage-python)
   - [**Apprenez la programmation orientée objet avec Python**](https://openclassrooms.com/fr/courses/7150616-apprenez-la-programmation-orientee-objet-avec-python)
   - [**Apprenez à programmer en C**](https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c)
@@ -10,7 +11,7 @@
 	
   ## 🛠️ Système :
   ### 🐧 Linux :
-  - [**Apprenez à utiliser la ligne de commande dans un terminal**](https://openclassrooms.com/fr/courses/6173491-apprenez-a-utiliser-la-ligne-de-commande-dans-un-terminal)
+  - [**Apprenez à utiliser la ligne de commande dans un terminal**](https://openclassrooms.com/fr/courses/6173491-apprenez-a-utiliser-la-ligne-de-commande-dans-un-terminal)⏳
   - [**Initiez-vous à Linux**](https://openclassrooms.com/fr/courses/7170491-initiez-vous-a-linux)
   - [**Administrez un système Linux**](https://openclassrooms.com/fr/courses/7274161-administrez-un-systeme-linux)
   - [**Gérez votre serveur Linux et ses services**](https://openclassrooms.com/fr/courses/1733551-gerez-votre-serveur-linux-et-ses-services)
