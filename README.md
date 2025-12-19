@@ -28,7 +28,7 @@
 	
 	
 ## 🛜 Réseau :
-  - [**Concevez votre réseau TCP/IP**](https://openclassrooms.com/fr/courses/6944606-concevez-votre-reseau-tcp-ip) ⏳
+  - [**Concevez votre réseau TCP/IP**](https://openclassrooms.com/fr/courses/6944606-concevez-votre-reseau-tcp-ip) ✅
   - [**Maîtrisez vos applications et réseaux TCP/IP**](https://openclassrooms.com/fr/courses/2340511-maitrisez-vos-applications-et-reseaux-tcp-ip)
   - [**Administrez une architecture réseau avec CISCO**](https://openclassrooms.com/fr/courses/2557196-administrez-une-architecture-reseau-avec-cisco)
 
