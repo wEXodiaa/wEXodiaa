@@ -56,4 +56,5 @@
   - [**Assurez la sécurité de votre Active Directory et de vos domaines Windows**](https://openclassrooms.com/fr/courses/7723396-assurez-la-securite-de-votre-active-directory-et-de-vos-domaines-windows)
   - [**Déployez un plan de sauvegarde informatique**](https://openclassrooms.com/fr/courses/8073271-deployez-un-plan-de-sauvegarde-informatique)
   - [**Optimisez la sécurité informatique grâce au monitoring**](https://openclassrooms.com/fr/courses/1750566-optimisez-la-securite-informatique-grace-au-monitoring)
+  - [**Mettez en place un PCA**](https://openclassrooms.com/fr/courses/6227526-mettez-en-place-un-plan-de-continuite-d-activite-pca)
 
