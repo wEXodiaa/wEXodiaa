@@ -1,7 +1,7 @@
 # Auto-formation – BTS CIEL
 *Légende : ⏳= module en cours | ✅ = module terminé*
   ## 🧑‍💻 Programmation :
-  - [**Mettez en place votre environnement Python**](https://openclassrooms.com/fr/courses/6951236-mettez-en-place-votre-environnement-python) 
+  - [**Mettez en place votre environnement Python**](https://openclassrooms.com/fr/courses/6951236-mettez-en-place-votre-environnement-python) ✅ 
   - [**Apprenez les bases du langage Python**](https://openclassrooms.com/fr/courses/7168871-apprenez-les-bases-du-langage-python)
   - [**Apprenez la programmation orientée objet avec Python**](https://openclassrooms.com/fr/courses/7150616-apprenez-la-programmation-orientee-objet-avec-python)
   - [**Apprenez à programmer en C**](https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c)
