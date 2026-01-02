@@ -34,7 +34,7 @@
 
 	
 ## 🔒 Cybersécurité :
-  - [**Découvrez l'univers de la cybersécurité**](https://openclassrooms.com/fr/courses/8028761-decouvrez-l-univers-de-la-cybersecurite)
+  - [**Découvrez l'univers de la cybersécurité**](https://openclassrooms.com/fr/courses/8028761-decouvrez-l-univers-de-la-cybersecurite) ✅
   - [**Sécurisez vos données avec la cryptographie**](https://openclassrooms.com/fr/courses/1757741-securisez-vos-donnees-avec-la-cryptographie)
   - [**Sécurisez votre réseau grâce aux VPN et Firewall**](https://openclassrooms.com/fr/courses/1946106-securisez-votre-reseau-grace-aux-vpn-et-firewall)
   - [**Sécurisez vos infrastructures**](https://openclassrooms.com/fr/courses/1761876-securisez-vos-infrastructures)
