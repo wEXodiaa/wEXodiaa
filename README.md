@@ -24,7 +24,7 @@
   - [**Préparez vos masters et déploiements de Windows 11**](https://openclassrooms.com/fr/courses/8667766-preparez-vos-masters-et-deploiements-de-windows-11)
 
 ### ☁️ Virtualisation :
-  - [**Virtualisez vos environnements de travail**](https://openclassrooms.com/fr/courses/2035806-virtualisez-vos-environnements-de-travail)
+  - [**Virtualisez vos environnements de travail**](https://openclassrooms.com/fr/courses/2035806-virtualisez-vos-environnements-de-travail)⏳
 	
 	
 ## 🛜 Réseau :
