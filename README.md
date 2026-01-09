@@ -18,13 +18,13 @@
   - [**Montez un serveur de fichiers sous Linux**](https://openclassrooms.com/fr/courses/2356316-montez-un-serveur-de-fichiers-sous-linux)
 	    
   ### 🪟 Windows :
-  - [**Prenez en main Windows Server**](https://openclassrooms.com/fr/courses/2356306-prenez-en-main-windows-server)
+  - [**Prenez en main Windows Server**](https://openclassrooms.com/fr/courses/2356306-prenez-en-main-windows-server) ⏳
   - [**Planifiez vos tâches avec des scripts PowerShell sur Windows Server**](https://openclassrooms.com/fr/courses/7938616-planifiez-vos-taches-avec-des-scripts-powershell-sur-windows-server)
   - [**Installez et configurez Windows 11**](https://openclassroom[s.com/fr/courses/8652296-installez-et-configurez-windows-11)
   - [**Préparez vos masters et déploiements de Windows 11**](https://openclassrooms.com/fr/courses/8667766-preparez-vos-masters-et-deploiements-de-windows-11)
 
 ### ☁️ Virtualisation :
-  - [**Virtualisez vos environnements de travail**](https://openclassrooms.com/fr/courses/2035806-virtualisez-vos-environnements-de-travail)⏳
+  - [**Virtualisez vos environnements de travail**](https://openclassrooms.com/fr/courses/2035806-virtualisez-vos-environnements-de-travail) ✅
 	
 	
 ## 🛜 Réseau :
