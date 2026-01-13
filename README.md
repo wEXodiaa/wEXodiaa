@@ -43,7 +43,7 @@
   - [**Réalisez un test d'intrusion web**](https://openclassrooms.com/fr/courses/7727176-realisez-un-test-d-intrusion-web)
 	
 ## 📝 Gestion de projet :
-- [**Modélisez vos bases de données**]( https://openclassrooms.com/fr/courses/6938711-modelisez-vos-bases-de-donnees)
+- [**Modélisez vos bases de données**]( https://openclassrooms.com/fr/courses/6938711-modelisez-vos-bases-de-donnees) ✅
 - [**Réalisez un cahier des charges fonctionnel**](https://openclassrooms.com/fr/courses/6739646-realisez-un-cahier-des-charges-fonctionnel)
 - [**Analysez les risques de votre projet**](https://openclassrooms.com/fr/courses/5774866-analysez-les-risques-de-votre-projet)
 - [**Écrivez la documentation technique de votre projet**](https://openclassrooms.com/fr/courses/6398056-ecrivez-la-documentation-technique-de-votre-projet)
