@@ -12,7 +12,7 @@
   ## 🛠️ Système :
   ### 🐧 Linux :
   - [**Apprenez à utiliser la ligne de commande dans un terminal**](https://openclassrooms.com/fr/courses/6173491-apprenez-a-utiliser-la-ligne-de-commande-dans-un-terminal) ✅
-  - [**Initiez-vous à Linux**](https://openclassrooms.com/fr/courses/7170491-initiez-vous-a-linux)
+  - [**Initiez-vous à Linux**](https://openclassrooms.com/fr/courses/7170491-initiez-vous-a-linux) ✅
   - [**Administrez un système Linux**](https://openclassrooms.com/fr/courses/7274161-administrez-un-systeme-linux)
   - [**Gérez votre serveur Linux et ses services**](https://openclassrooms.com/fr/courses/1733551-gerez-votre-serveur-linux-et-ses-services)
   - [**Montez un serveur de fichiers sous Linux**](https://openclassrooms.com/fr/courses/2356316-montez-un-serveur-de-fichiers-sous-linux)
