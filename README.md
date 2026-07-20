@@ -7,7 +7,7 @@
   - [**Apprenez à programmer en C**](https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c)
   - [**Apprenez à programmer en C++**](https://openclassrooms.com/fr/courses/1894236-apprenez-a-programmer-en-c)
   - [**Implémentez vos bases de données relationnelles avec SQL**](https://openclassrooms.com/fr/courses/6971126-implementez-vos-bases-de-donnees-relationnelles-avec-sql)
-  - - [**Gérez du code avec Git et GitHub**](https://openclassrooms.com/fr/courses/7162856-gerez-du-code-avec-git-et-github)
+  - [**Gérez du code avec Git et GitHub**](https://openclassrooms.com/fr/courses/7162856-gerez-du-code-avec-git-et-github)
 	    
 	
   ## 🛠️ Système :
